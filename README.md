@@ -1,4 +1,4 @@
-# Soft-skills roadmap for a technical Leader / architect
+# Soft-skills roadmap for true leaders
 
 This repository provides a **structured roadmap** for developing essential **soft skills** as a Technical Leader or Software Architect.  
 The roadmap focuses on the interpersonal and leadership capabilities that complement technical expertise, enabling you to guide teams, mentor developers, and communicate effectively with both technical and non-technical stakeholders.
