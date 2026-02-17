@@ -24,9 +24,3 @@ This is a list of the common mental shortcuts and systematic errors in thinking 
 ### 3. **[Mental Models & Laws](./mental-models-and-laws/toc.md)**
 This section covers a collection of "rules" and models that describe how systems and human behavior tend to operate.
 *   **Key Concepts:** Parkinson's Law, Hofstadter's Law, Hanlon's Razor, and the Pareto Principle.
-
-### 4. **[Dark Psychology](./dark-psychology.md)**
-An exploration of the darker aspects of human influence, including manipulation, coercion, and the psychological traits of those who exploit others. Understanding this is key to self-defense.
-
-### 5. **[The Antifragile Ego](./antifragile-ego.md)**
-A guide to building a self-concept that grows stronger from criticism, setbacks, and challenges, based on the work of Nassim Nicholas Taleb.
