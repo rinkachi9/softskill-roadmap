@@ -1,6 +1,6 @@
 # Cost vs. Value Analysis: A Strategic Guide for Tech Leaders
 
-As a technical leader, every decision you make is an investment. You are investing your team's most valuable resource—time—to create value. A cost-value analysis is not just an accounting exercise; it is the strategic framework you use to ensure you are making the best possible investments.
+As a technical leader, every decision you make is an investment. You are investing your team's most valuable resource - time - to create value. A cost-value analysis is not just an accounting exercise; it is the strategic framework you use to ensure you are making the best possible investments.
 
 This guide provides a practical approach to analyzing the true cost and full value of technical decisions, enabling you to prioritize work, justify your roadmap, and communicate effectively with business stakeholders.
 

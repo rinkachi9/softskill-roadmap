@@ -16,7 +16,7 @@ Humans have a fundamental need for predictability and control. Uncertainty chall
 
 ### Understanding Intolerance of Uncertainty
 
-People vary in their **intolerance of uncertainty (IU)**—their dispositional tendency to experience negative emotional, cognitive, and behavioral reactions to uncertain situations.
+People vary in their **intolerance of uncertainty (IU)** - their dispositional tendency to experience negative emotional, cognitive, and behavioral reactions to uncertain situations.
 
 *   **High IU:** Individuals with high IU find ambiguity highly distressing. They may constantly seek reassurance, engage in excessive planning, or avoid uncertain situations altogether.
 *   **Low IU:** Individuals with lower IU are more comfortable with ambiguity and can tolerate the unknown with greater ease.

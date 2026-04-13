@@ -1,6 +1,6 @@
 # ⏳ Patience: The Power of Calm Endurance
 
-Patience is the ability to remain calm and composed in the face of delay, frustration, or adversity. It is not passive waiting; it is **active endurance**—the capacity to stay steady and focused when things aren't happening on your timeline.
+Patience is the ability to remain calm and composed in the face of delay, frustration, or adversity. It is not passive waiting; it is **active endurance** - the capacity to stay steady and focused when things aren't happening on your timeline.
 
 In a world that prizes speed and instant gratification, patience is a rare and powerful skill.
 
@@ -17,7 +17,7 @@ In an age of constant notifications and on-demand everything, our ability to tol
 *   **Better Decision-Making:** Impatience leads to rash, short-sighted choices. Patience allows you the space to think critically, weigh options, and make more strategic decisions.
 *   **Stronger Relationships:** Patience fosters empathy and understanding. It allows you to listen better, respond more thoughtfully, and navigate conflicts without escalating them.
 *   **Reduced Stress and Improved Mental Health:** Impatience is a form of stress. It triggers a fight-or-flight response over minor frustrations. Patience, on the other hand, promotes a sense of calm and emotional regulation.
-*   **Greater Achievement of Long-Term Goals:** Any goal worth achieving—mastering a skill, building a business, getting in shape—requires sustained effort over time. Patience is what allows you to persist through the inevitable plateaus and setbacks.
+*   **Greater Achievement of Long-Term Goals:** Any goal worth achieving - mastering a skill, building a business, getting in shape - requires sustained effort over time. Patience is what allows you to persist through the inevitable plateaus and setbacks.
 
 ---
 
@@ -26,8 +26,8 @@ In an age of constant notifications and on-demand everything, our ability to tol
 Patience is deeply rooted in our ability to manage our brain's reward systems.
 
 *   **Delayed Gratification:** This is the core of patience. It's the ability to resist the temptation of an immediate reward to receive a more significant one later. This skill, managed by the **prefrontal cortex**, is a strong predictor of long-term success.
-*   **Emotional Regulation:** Impatience is often a manifestation of unmanaged emotions like frustration, anxiety, or anger. Patience is a form of emotional intelligence—the ability to feel these emotions without letting them dictate your actions.
-*   **Temporal Discounting:** This is the cognitive bias where we value immediate rewards more highly than future rewards. A patient person has a "lower discount rate"—they are better able to appreciate the full value of a future outcome.
+*   **Emotional Regulation:** Impatience is often a manifestation of unmanaged emotions like frustration, anxiety, or anger. Patience is a form of emotional intelligence - the ability to feel these emotions without letting them dictate your actions.
+*   **Temporal Discounting:** This is the cognitive bias where we value immediate rewards more highly than future rewards. A patient person has a "lower discount rate" - they are better able to appreciate the full value of a future outcome.
 
 ---
 
@@ -35,9 +35,9 @@ Patience is deeply rooted in our ability to manage our brain's reward systems.
 
 Patience isn't a single trait; it manifests in different areas of life.
 
-1.  **Interpersonal Patience:** This is patience with other people—their mistakes, their pace, their differing opinions. It's essential for collaboration and healthy relationships.
-2.  **Life Hardship Patience:** This is the patience required to endure major life challenges—like a long illness, a career setback, or a period of grief. It is the foundation of long-term resilience.
-3.  **Daily Hassles Patience:** This is patience with the minor frustrations of everyday life—traffic jams, slow Wi-Fi, long queues. While seemingly trivial, mastering this reduces a significant source of daily stress.
+1.  **Interpersonal Patience:** This is patience with other people - their mistakes, their pace, their differing opinions. It's essential for collaboration and healthy relationships.
+2.  **Life Hardship Patience:** This is the patience required to endure major life challenges - like a long illness, a career setback, or a period of grief. It is the foundation of long-term resilience.
+3.  **Daily Hassles Patience:** This is patience with the minor frustrations of everyday life - traffic jams, slow Wi-Fi, long queues. While seemingly trivial, mastering this reduces a significant source of daily stress.
 
 ---
 

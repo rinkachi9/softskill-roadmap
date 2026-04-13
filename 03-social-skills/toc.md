@@ -1,4 +1,4 @@
-# 🗂️ Table of Contents: 03-Social-Skills (Interpersonal)
+# 🗂️ Table of Contents: social skills
 
 This section covers the skills related to how you interact and build relationships with others. Mastering these skills is essential for effective collaboration, influence, and creating strong personal and professional bonds.
 

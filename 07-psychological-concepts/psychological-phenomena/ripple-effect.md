@@ -2,7 +2,7 @@
 
 The **Ripple Effect** (also known as the Butterfly Effect in complex systems) is a psychological and sociological phenomenon where a single action, decision, or event causes a chain reaction of consequences, spreading outward much like ripples on water.
 
-Small initial inputs—whether behaviors, choices, or disruptions—can lead to increasingly wide-reaching and often unexpected effects across individual, interpersonal, organizational, and societal levels.
+Small initial inputs - whether behaviors, choices, or disruptions - can lead to increasingly wide-reaching and often unexpected effects across individual, interpersonal, organizational, and societal levels.
 
 ---
 

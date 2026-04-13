@@ -22,7 +22,7 @@ Self-discipline is the bridge between your goals and their accomplishment. Witho
 
 Many people wait for motivation to strike before they act. This is a trap.
 
-*   **Motivation is the SPARK.** It's an emotional state—excitement, inspiration, desire. It's powerful but unreliable and fleeting.
+*   **Motivation is the SPARK.** It's an emotional state - excitement, inspiration, desire. It's powerful but unreliable and fleeting.
 *   **Discipline is the ENGINE.** It's a system, a habit, a commitment. It functions regardless of your mood.
 
 > **Motivation gets you started. Discipline keeps you going.**

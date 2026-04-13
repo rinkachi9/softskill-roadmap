@@ -60,7 +60,7 @@ Meditation is not about "emptying your mind." It's about observing your thoughts
 *   **How to start:** Sit quietly for 5 minutes. Focus on your breath. When a thought arises (which it will), simply notice it, label it ("thinking"), and gently guide your attention back to your breath.
 
 ### 4. **Conduct a "Major Event" Debrief**
-When something significant happens—a big success, a major failure, a heated argument—take the time to process it structurally.
+When something significant happens - a big success, a major failure, a heated argument - take the time to process it structurally.
 *   **What happened?** (Describe the event objectively, like a reporter).
 *   **How did I feel?** (List the emotions without judgment).
 *   **What were my actions?** (What did I do or say?).

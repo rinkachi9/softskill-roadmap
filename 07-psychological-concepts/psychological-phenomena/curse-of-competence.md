@@ -1,6 +1,6 @@
 # Curse of Competence: The Burden of Being Good
 
-The **Curse of Competence** is a psychological and professional phenomenon where individuals who are highly skilled and capable in a particular domain inadvertently become burdened by their own ability. Because they consistently perform well, they are disproportionately given more tasks, higher expectations, and greater responsibilities—often beyond their formal role or reward structure.
+The **Curse of Competence** is a psychological and professional phenomenon where individuals who are highly skilled and capable in a particular domain inadvertently become burdened by their own ability. Because they consistently perform well, they are disproportionately given more tasks, higher expectations, and greater responsibilities - often beyond their formal role or reward structure.
 
 This can lead to burnout, stagnation, and underappreciation, as the person becomes "trapped" by being good at something rather than advancing or evolving.
 

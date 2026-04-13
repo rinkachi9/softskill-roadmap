@@ -15,7 +15,7 @@ The Golem Effect is triggered when a person in a position of authority (like a m
 3.  **Fewer Opportunities (Output):** The individual is given fewer chances to speak, contribute, or take on responsibility.
 4.  **Biased Feedback:** Mistakes are seen as confirmation of the person's incompetence, while successes may be dismissed as luck.
 
-This treatment erodes the individual's self-confidence and motivation. They begin to internalize the belief that they are incapable, leading them to disengage, put in less effort, and ultimately perform poorly—thus "confirming" the original low expectation.
+This treatment erodes the individual's self-confidence and motivation. They begin to internalize the belief that they are incapable, leading them to disengage, put in less effort, and ultimately perform poorly - thus "confirming" the original low expectation.
 
 ---
 

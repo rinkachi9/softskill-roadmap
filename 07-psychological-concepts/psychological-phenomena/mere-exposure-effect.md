@@ -1,6 +1,6 @@
 # Mere-Exposure Effect: Familiarity Breeds Liking
 
-The **Mere-Exposure Effect** is a psychological phenomenon where people tend to develop a preference for things merely because they are familiar with them. The more often we are exposed to a stimulus—be it a person, a product, a word, or an image—the more positively we tend to evaluate it.
+The **Mere-Exposure Effect** is a psychological phenomenon where people tend to develop a preference for things merely because they are familiar with them. The more often we are exposed to a stimulus - be it a person, a product, a word, or an image - the more positively we tend to evaluate it.
 
 This effect, first formally demonstrated by social psychologist Robert Zajonc, suggests that **"familiarity breeds liking,"** not contempt.
 

@@ -2,7 +2,7 @@
 
 Consistency is the practice of applying steady, focused effort over time. It is the art of showing up and doing the work, day in and day out, regardless of your mood or motivation level. It is arguably the most critical ingredient for achieving any significant long-term goal.
 
-> As your notes state, "Consistency is a habit that takes time to develop." It is not a state of mind, but a disciplined practice.
+> "Consistency is a habit that takes time to develop." It is not a state of mind, but a disciplined practice.
 
 ---
 
@@ -19,7 +19,7 @@ The power of consistency lies in the principle of compounding, famously applied 
 
 ## 🔥 Consistency vs. Intensity
 
-Our culture often glorifies intense, heroic efforts—the all-nighter to finish a project, the crash diet, the two-a-day workouts. But intensity is a short-term strategy, and it's not sustainable.
+Our culture often glorifies intense, heroic efforts - the all-nighter to finish a project, the crash diet, the two-a-day workouts. But intensity is a short-term strategy, and it's not sustainable.
 
 | **Intensity 🔥** | **Consistency 💧** |
 | :--- | :--- |

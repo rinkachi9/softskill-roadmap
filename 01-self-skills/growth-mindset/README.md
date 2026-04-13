@@ -54,7 +54,7 @@ You can consciously shift from a fixed to a growth mindset. Here’s how:
 Start by noticing your thoughts. When you face a challenge, what does your inner voice say? Is it a fixed mindset voice ("You can't do this") or a growth mindset voice ("This is hard, but I can figure it out")? Simply being aware is the first step.
 
 ### 2. **Embrace Challenges Intentionally**
-Don't just tolerate challenges—seek them out. Choose the harder project. Take the course you're not sure you'll ace. Every time you step out of your comfort zone, you are strengthening your growth mindset.
+Don't just tolerate challenges - seek them out. Choose the harder project. Take the course you're not sure you'll ace. Every time you step out of your comfort zone, you are strengthening your growth mindset.
 
 ### 3. **Focus on Process, Not Just Outcome**
 Praise yourself and others for the effort, the strategies used, and the persistence shown, regardless of the final result.

@@ -52,7 +52,7 @@ This framework can be used for personal visioning or for creating a shared visio
     *   Write a journal entry dated 5 years from now. Describe a day in your ideal life in vivid, present-tense detail. What are you doing? Who are you with? How do you feel?
 
 *   **Guided Visualization:**
-    *   Spend 10 minutes in a quiet space with your eyes closed. Mentally simulate a future success—a completed project, a career achievement, a personal milestone. Engage all your senses.
+    *   Spend 10 minutes in a quiet space with your eyes closed. Mentally simulate a future success - a completed project, a career achievement, a personal milestone. Engage all your senses.
 
 *   **Create a Vision Board:**
     *   Collect images, words, and quotes that represent the future you want to create. Place it somewhere you will see it every day. This serves as a constant, visual reminder of your "why."

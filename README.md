@@ -6,38 +6,27 @@ The roadmap focuses on the interpersonal and leadership capabilities that comple
 ---
 
 ## 🎯 Purpose
-Technical leadership is more than just deep technical knowledge—it requires **mentorship, communication, decision-making, and conflict resolution skills**.  
+Technical leadership is more than just deep technical knowledge - it requires **mentorship, communication, decision-making, and conflict resolution skills**.  
 This roadmap offers a **step-by-step guide** to strengthen these soft skills and become an impactful leader.
 
 ---
 
 ## 🛠 Core areas & skills
 
-### 1. Leadership
-- **Conducting code reviews as mentorship**  
-  Go beyond simple approval; provide constructive feedback and teach best practices.
-- **Resolving technical conflicts**  
-  Facilitate healthy discussions and help the team reach consensus without friction.
-- **Delegating tasks and responsibilities**  
-  Distribute work effectively, empower team members, and build trust.
-
-### 2. Decision-making
-- **Arguing architectural choices**  
-  Back decisions with clear reasoning, trade-off analysis, and technical evidence.
-- **Cost vs. value analysis**  
-  Evaluate solutions based on their long-term impact and business value.
-
-### 3. Communication
-- **Pitching ideas to non-technical stakeholders**  
-  Translate complex technical concepts into clear, business-friendly language.
-- **Presenting architecture with diagrams**  
-  Communicate designs using visual models (C4, UML, sequence diagrams, etc.).
-
-### 4. Mentoring
-- **Onboarding juniors and mids**  
-  Create a structured onboarding plan, set clear expectations, and provide early wins.
-- **Planning team development paths**  
-  Help team members set career goals and guide their professional growth.
+### 1. **[Self-Skills](./01-self-skills/toc.md)**
+*   Focuses on understanding and managing your inner world: self-awareness, discipline, motivation, resilience, and personal growth.
+### 2. **[Thinking Skills](./02-thinking-skills/toc.md)**
+*   Enhances cognitive abilities: critical thinking, problem-solving, decision-making, analysis, and effective learning strategies.
+### 3. **[Social Skills](./03-social-skills/toc.md)**
+*   Develops interpersonal effectiveness: empathy, networking, negotiation, debating, and conflict resolution.
+### 4. **[Communication Skills](./04-communication-skills/toc.md)**
+*   Improves how you share and receive information: public speaking, storytelling, active listening, non-verbal cues, and effective writing.
+### 5. **[Leadership Skills](./05-leadership-skills/toc.md)**
+*   Cultivates guidance and inspiration: visioning, delegation, mentoring, accountability, and composure under pressure.
+### 6. **[Productivity Skills](./06-productivity-skills/toc.md)**
+*   Maximizes output and efficiency: time management, prioritization, focus, goal-setting, and effective work habits.
+### 7. **[Psychological Concepts](./08-psychological-concepts/toc.md)**
+*   Uncovers insights into human behavior: cognitive biases, self-fulfilling prophecies, motivation, and the impact of expectations.
 
 ---
 
@@ -51,21 +40,23 @@ This roadmap offers a **step-by-step guide** to strengthen these soft skills and
 4. **Reflect & Iterate**  
    Gather feedback from peers and continuously improve.
 
-## 📂 Repository structure
+## 📂 Repository Structure
 
 ```
 /
-├─ leadership/
-├─ decision-making/
-├─ communication/
-├─ mentoring/
+├─ 01-self-skills/                   # Self-awareness, Self-discipline, Resilience, etc.
+├─ 02-thinking-skills/               # Critical thinking, Problem-solving, Learning, etc.
+├─ 03-social-skills/                 # Empathy, Negotiation, Teamwork, etc.
+├─ 04-communication-skills/          # Public speaking, Storytelling, Non-verbal, etc.
+├─ 05-leadership-skills/             # Visioning, Delegation, Mentoring, Accountability, etc.
+├─ 06-productivity-skills/           # Time management, Focus, Goal-setting, Procrastination, etc.
+├─ 07-psychological-concepts/        # Cognitive biases, Psychological phenomena, Mental models, etc.
 └─ README.md
 ```
 
-Each folder will contain:
-- 📘 **Guides & Resources** – books, articles, courses
-- 🧩 **Practical Exercises** – scenarios and case studies
-- ✅ **Checklists** – self-evaluation and progress tracking
+Each of the main skill directories (e.g., `01-self-skills/`) will contain:
+- 🗂️ **`toc.md`** – A Table of Contents linking to all sub-guides within that category.
+- 📘 **Sub-directories with `README.md`** – Detailed guides and resources for each specific skill.
 
 ---
 

@@ -1,6 +1,6 @@
 # Coddled Mind Phenomenon: The Fragility of Overprotection
 
-The **Coddled Mind Phenomenon** describes a psychological and sociocultural condition where individuals—particularly young people—are shielded from discomfort, challenges, and opposing ideas to the point that their mental resilience, emotional regulation, and critical thinking abilities are stunted.
+The **Coddled Mind Phenomenon** describes a psychological and sociocultural condition where individuals - particularly young people - are shielded from discomfort, challenges, and opposing ideas to the point that their mental resilience, emotional regulation, and critical thinking abilities are stunted.
 
 This concept, popularized by Greg Lukianoff and Jonathan Haidt in _The Coddling of the American Mind_, argues that an overemphasis on safety (both emotional and intellectual) can inadvertently create fragility rather than strength.
 

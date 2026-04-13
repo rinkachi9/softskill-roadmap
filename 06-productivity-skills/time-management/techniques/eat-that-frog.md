@@ -4,7 +4,7 @@
 
 > "If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
 
-In this analogy, the "frog" is your most important and challenging task—the one you are most likely to procrastinate on. The core idea of this technique is to tackle that single, high-impact task at the very beginning of your day.
+In this analogy, the "frog" is your most important and challenging task - the one you are most likely to procrastinate on. The core idea of this technique is to tackle that single, high-impact task at the very beginning of your day.
 
 **Best for:** Overcoming procrastination on high-value tasks and ensuring you make progress on what truly matters each day.
 

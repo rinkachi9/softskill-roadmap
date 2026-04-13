@@ -2,7 +2,7 @@
 
 **Procrastination** is the act of unnecessarily and voluntarily delaying or postponing something, despite knowing that there will be negative consequences for doing so.
 
-It's not just about being lazy. Procrastination is often a complex emotional response to a task—driven by feelings like anxiety, fear of failure, perfectionism, or boredom.
+It's not just about being lazy. Procrastination is often a complex emotional response to a task - driven by feelings like anxiety, fear of failure, perfectionism, or boredom.
 
 ---
 

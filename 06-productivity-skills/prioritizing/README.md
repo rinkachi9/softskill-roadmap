@@ -63,4 +63,4 @@ This method, popularized by Brian Tracy, is a simple way to categorize your dail
 *   **"E" Tasks: Eliminate.**
     *   These are tasks you should stop doing altogether. They are often old habits or activities that no longer add value.
 
-By applying these frameworks, you can move from a reactive "what's next?" approach to a proactive, strategic approach, ensuring that your most valuable resource—your time—is always invested in what matters most.
+By applying these frameworks, you can move from a reactive "what's next?" approach to a proactive, strategic approach, ensuring that your most valuable resource - your time - is always invested in what matters most.

@@ -15,7 +15,7 @@ Many new leaders fall into a common trap: believing it's faster and safer to do 
 -   **"It's faster to do it myself."**
     -   **The Trap:** This is only true in the short term. The time you invest in teaching someone to do a task pays itself back tenfold as they become more autonomous.
 -   **"They won't do it right."**
-    -   **The Trap:** This assumes there's only one "right" way—yours. By allowing others to find their own solutions, you foster innovation and may discover better approaches. Your role is to ensure the outcome meets the standard, not to dictate the method.
+    -   **The Trap:** This assumes there's only one "right" way - yours. By allowing others to find their own solutions, you foster innovation and may discover better approaches. Your role is to ensure the outcome meets the standard, not to dictate the method.
 -   **"I'll lose control and visibility."**
     -   **The Trap:** Control doesn't come from doing everything; it comes from having a clear process. Proper delegation with defined check-ins actually *increases* your visibility into the team's progress and capabilities.
 
@@ -107,4 +107,4 @@ Your role now shifts to support. Let them own the "how." Resist the urge to solv
 
 ## Conclusion
 
-Delegation is an act of trust. It is the most powerful tool you have for developing your people and scaling your team's output. It requires a conscious mindset shift and deliberate practice, but the return on investment—in the form of a more capable, motivated, and autonomous team—is immeasurable.
+Delegation is an act of trust. It is the most powerful tool you have for developing your people and scaling your team's output. It requires a conscious mindset shift and deliberate practice, but the return on investment - in the form of a more capable, motivated, and autonomous team - is immeasurable.

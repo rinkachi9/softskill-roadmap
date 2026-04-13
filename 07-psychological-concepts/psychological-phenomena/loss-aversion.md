@@ -47,7 +47,7 @@ Our aversion to loss is a deeply ingrained part of human nature, likely rooted i
     *   *Example:* When changing jobs, focus on the new opportunities, not just the loss of the familiar routine.
 
 3.  **Set Clear Exit Strategies:**
-    *   Before you start an investment or a project, define clear "kill criteria"—points at which you will exit or abandon the venture, regardless of past investments. This helps prevent the Sunk Cost Fallacy from taking root.
+    *   Before you start an investment or a project, define clear "kill criteria" - points at which you will exit or abandon the venture, regardless of past investments. This helps prevent the Sunk Cost Fallacy from taking root.
 
 4.  **Practice Pre-Mortems:**
     *   Imagine a project has failed. What were the reasons? This helps anticipate potential losses and make more objective decisions before they happen.

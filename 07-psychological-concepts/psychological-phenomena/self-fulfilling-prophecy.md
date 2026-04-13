@@ -34,7 +34,7 @@ The self-fulfilling prophecy typically unfolds in a four-step cycle:
 
 ### Why It Matters: Shaping Our Reality
 
-The self-fulfilling prophecy highlights the immense power of our beliefs—about ourselves and about others—in shaping reality.
+The self-fulfilling prophecy highlights the immense power of our beliefs - about ourselves and about others - in shaping reality.
 
 *   **Personal Growth:** If you believe you can achieve a goal, you are more likely to put in the effort and actions that will lead to its realization.
 *   **Leadership:** Leaders' expectations of their teams directly impact team performance.

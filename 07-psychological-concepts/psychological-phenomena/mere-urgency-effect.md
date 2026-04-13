@@ -1,6 +1,6 @@
 # Mere Urgency Effect: Why We Choose Busy Over Important
 
-The **Mere Urgency Effect** is a cognitive bias in which individuals tend to prioritize tasks that seem urgent—**regardless of their actual importance**—over tasks that are more meaningful or beneficial in the long term.
+The **Mere Urgency Effect** is a cognitive bias in which individuals tend to prioritize tasks that seem urgent - **regardless of their actual importance** - over tasks that are more meaningful or beneficial in the long term.
 
 In an age of constant notifications and demanding deadlines, this effect explains why we often feel overwhelmed and busy, yet make little progress on our most significant goals. We confuse "busyness" with "productivity."
 
@@ -10,7 +10,7 @@ In an age of constant notifications and demanding deadlines, this effect explain
 
 This bias stems from several psychological mechanisms:
 
-1.  **Temporal Discounting:** Our brains tend to prefer immediate rewards. Urgent tasks offer a quick sense of completion and relief, which feels psychologically rewarding—even if the actual impact is low.
+1.  **Temporal Discounting:** Our brains tend to prefer immediate rewards. Urgent tasks offer a quick sense of completion and relief, which feels psychologically rewarding - even if the actual impact is low.
 2.  **Cognitive Dissonance Reduction:** Open loops (unfinished tasks) create mental discomfort. Completing an urgent task, no matter how trivial, provides quick closure and reduces this discomfort.
 3.  **Action Bias:** We have a natural tendency to take action, especially under pressure, even if that action isn't the most effective. Doing *something* feels better than doing *nothing*.
 4.  **Attention Capture:** Urgent stimuli (a ping, a flashing light, a looming deadline) naturally grab our attention. They trigger a mild stress response that narrows our focus to what demands immediate response.
@@ -21,14 +21,14 @@ This bias stems from several psychological mechanisms:
 
 *   **Email and Notifications:** Immediately replying to emails or Slack messages as they arrive, even if they're not critical, rather than protecting time for deep, focused work.
 *   **To-Do Lists:** Checking off quick, low-impact items (e.g., "organize desktop icons") instead of tackling a strategic task (e.g., "develop next quarter's plan").
-*   **False Deadlines:** A report due "by the end of the day" may receive more attention than a long-term planning document due next week—even if the latter is far more consequential.
+*   **False Deadlines:** A report due "by the end of the day" may receive more attention than a long-term planning document due next week - even if the latter is far more consequential.
 *   **Customer Service Reactions:** Prioritizing the most recent complaint, even if it's less critical, because it *feels* more pressing.
 
 ---
 
 ### Why It Matters: The Cost of Constant Urgency
 
-*   **Neglect of Important Tasks:** The biggest cost is that crucial but non-urgent activities—strategic planning, skill development, relationship building, personal health—get perpetually delayed.
+*   **Neglect of Important Tasks:** The biggest cost is that crucial but non-urgent activities - strategic planning, skill development, relationship building, personal health - get perpetually delayed.
 *   **Burnout:** Constantly chasing urgent tasks is exhausting. It leads to a reactive, stressed-out existence, eventually resulting in burnout.
 *   **Lack of Long-Term Progress:** You may feel busy and productive, but at the end of the month or year, you realize you haven't moved the needle on your most significant goals.
 *   **Impaired Decision-Making:** Under the pressure of urgency, we often make hasty, suboptimal decisions.

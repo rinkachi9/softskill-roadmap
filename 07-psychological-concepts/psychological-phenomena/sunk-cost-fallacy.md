@@ -2,7 +2,7 @@
 
 The **Sunk Cost Fallacy** (also known as the Concorde Fallacy) is a cognitive bias in which a person is reluctant to abandon a course of action because they have already invested heavily in it (in terms of time, money, or effort), even when it is clear that continuing the action is not the best decision.
 
-The past investment becomes a "sunk cost"—a cost that has already been incurred and cannot be recovered. The fallacy is in letting these unrecoverable costs influence a current, rational decision.
+The past investment becomes a "sunk cost" - a cost that has already been incurred and cannot be recovered. The fallacy is in letting these unrecoverable costs influence a current, rational decision.
 
 > In short, it's the feeling of being "too invested to quit."
 

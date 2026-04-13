@@ -13,7 +13,7 @@ Self-care is the foundational discipline upon which all other growth is built.
 In a culture that often prizes hustle and sacrifice, self-care can be mistaken for selfishness or laziness. This is a dangerous misconception.
 
 *   **Self-care is a prerequisite for high performance.** You cannot pour from an empty cup. Sustained success in any field requires a sustainable pace and a healthy mind and body.
-*   **It's about responsibility, not indulgence.** Taking care of yourself is your first responsibility. It ensures you can show up for others—your family, your team, your community—as the best version of yourself.
+*   **It's about responsibility, not indulgence.** Taking care of yourself is your first responsibility. It ensures you can show up for others - your family, your team, your community - as the best version of yourself.
 *   **It prevents burnout.** Burnout is not a sign of failure; it's a sign that you've neglected your own needs for too long. Self-care is the antidote.
 
 > Neglecting self-care isn't a sign of strength. It's a sign of poor long-term strategy.

@@ -1,4 +1,4 @@
-# 🗂️ Table of Contents: 01-Self-Skills (Intrapersonal)
+# 🗂️ Table of Contents: self-skills
 
 This section covers the foundational skills related to understanding and managing your inner world. These are the skills of self-awareness, self-regulation, and personal growth that form the bedrock of a successful and fulfilling life.
 

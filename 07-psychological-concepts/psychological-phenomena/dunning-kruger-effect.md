@@ -37,7 +37,7 @@ The effect can be visualized along the classic "four stages of competence" model
 
 ### How to Overcome the Dunning-Kruger Effect
 
-The key to overcoming this bias is to develop **metacognition**—the ability to think about your own thinking.
+The key to overcoming this bias is to develop **metacognition** - the ability to think about your own thinking.
 
 *   **Keep Learning:** The more you learn about a subject, the more you will recognize its complexity and the limits of your own knowledge.
 *   **Seek Honest Feedback:** Actively ask for constructive criticism from people who are more experienced than you. Don't just listen to it; try to understand it.

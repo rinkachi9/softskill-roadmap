@@ -11,7 +11,7 @@
 GTD is a five-step process for managing your workflow.
 
 1.  **Capture:**
-    *   **The Idea:** Collect *everything* that has your attention—tasks, ideas, reminders, appointments—into a limited number of "inboxes." This could be a physical tray, a notebook, an email folder, or a digital app.
+    *   **The Idea:** Collect *everything* that has your attention - tasks, ideas, reminders, appointments - into a limited number of "inboxes." This could be a physical tray, a notebook, an email folder, or a digital app.
     *   **The Goal:** Your mind should be for *having* ideas, not for *holding* them.
 
 2.  **Clarify (or Process):**

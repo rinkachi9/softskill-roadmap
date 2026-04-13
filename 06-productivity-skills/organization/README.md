@@ -46,6 +46,6 @@ The GTD method, created by David Allen, is a comprehensive system for capturing,
     3.  **Organize:** Put actionable items where they belong. If it's a meeting, put it on your calendar. If it's a task, put it on your to-do list, categorized by project or context (e.g., "@computer," "@home").
     4.  **Reflect:** Review your lists regularly (daily and weekly) to stay current and prioritize.
     5.  **Engage:** Do the work, trusting that your system has everything captured and organized.
-*   **Why it's effective:** It creates a "mind like water"—a state where your brain is free to focus on the task at hand because it trusts that nothing will be forgotten.
+*   **Why it's effective:** It creates a "mind like water" - a state where your brain is free to focus on the task at hand because it trusts that nothing will be forgotten.
 
 By implementing these systems, you move from a state of chaotic reaction to one of structured, intentional action.
