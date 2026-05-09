@@ -16,7 +16,6 @@ A basic Kanban board has three columns:
 2.  **In Progress:** These are the tasks that are actively being worked on.
 3.  **Done:** These are the completed tasks.
 
-![Basic Kanban Board](https://i.imgur.com/L4jA2tS.png)
 
 **Key Principles of Kanban:**
 
